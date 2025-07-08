@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amr Hassan
+# 👋 Hi, I'm Amr Hassan Elsayed
 
 **Data Scientist | GP Doctor and Bioninformatics Expert | Currently working in Tech Sales & Account Management @ Microsoft**
 
