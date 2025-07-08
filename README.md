@@ -9,10 +9,7 @@
 - Python, R, Pandas, Statistics, Visualization
 - Wearable data, exposome, and medical imaging models
 
-🧠 Passionate about translating data into decisions — especially in health tech, wearable analytics, and AI for good.
-
-💼 Currently working in **Customer Success for a major tech corporation**, combining strategic ops thinking with technical acumen.
-
+Passionate about translating data into decisions.
 ---
 
 ## 🧰 Languages & Tools
